@@ -1,6 +1,7 @@
 # Python-QRcode
 ### In this project, we will build a simple Python program that generates qrcode. 
 
+## Scan QRCODE
 ![alt text](kbt_qrcode.jpg)
 
 ## The YouTube Link
