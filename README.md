@@ -31,5 +31,5 @@ https://youtu.be/iFlSrEuyl8I
 ## Follow me on:
 Twitter: [Twitter](https://twitter.com/KenBroni)
 
-Facebook: [Facebook](https://web.facebook.com/kenneth.bron...)
+Facebook: [Facebook](https://www.facebook.com/kenneth.broni.9/)
 
